@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    font-family: 'poppins';
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    width: 210px;
+    border: 1px  solid  hsl(212, 45%, 89%);
+    margin: auto;
+    position: relative;
+    top: 50px;
+    height: 370px;
+    border-radius: 5px;
+    background-color:hsl(0, 0%, 100%) ;
+    
+}
+.parent{
+    background-color: rgb(213, 225, 239);
+    max-width: 800px;
+    height: 500px;
+    margin: auto;
+    position: relative;
+    top: 30px;
+    
+    
+}
+.second{
+    position: relative;
+    left: 20px;
+    font-size: 15px;
+}
+img{
+    max-width: 190px;
+    height: auto;
+    margin: 10px;
+    border-radius: 5px;
+}
+.first{
+    margin: 5px;
+    color: hsl(220, 15%, 55%);
+}
